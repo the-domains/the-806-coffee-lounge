@@ -1,15 +1,7 @@
-layout_spectrum: 1
-favicon: null
 name: The 806 Coffee + Lounge
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4291737
 collections:
   - index:
       paginate: true
@@ -22,19 +14,28 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
+title: The 806 Coffee + Lounge
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 1
-  saturation: 0.7089694305323064
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#CDCDCD'
     - '#010099'
     - '#7F7F7F'
+  brandStrength: 1
   lightness: 0.5576788727194071
+  saturation: 0.7089694305323064
   rhythmicContrast: 0.1481561579275876
-typography_spectrum: 0.4291737
+purpose: []
