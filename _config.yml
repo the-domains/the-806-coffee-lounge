@@ -1,7 +1,7 @@
 name: The 806 Coffee + Lounge
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.4291737
+typography_spectrum: 0.35701
 collections:
   - index:
       paginate: true
